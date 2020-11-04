@@ -9,5 +9,5 @@
 - 📫 Cómo contactarme: denaa188@gmail.com
 - ⚡ Dato curioso: Me implico mucho en lo que hago
 
-<img src="IMG_2462edi.JPG" width="25%" height="25%"></img>
+<p style="text-align:center"><img src="IMG_2462edi.JPG" width="25%" height="25%"></img></p>
 
