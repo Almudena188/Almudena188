@@ -1,5 +1,5 @@
 ### Hola! 👋
-<img src="IMG_2478edi.jpg"/>
+<img src="IMG_2478edi.JPG" width="50%" height="50%"></img>
 - 🔭 Actualmente estoy trabajando en  diversos proyectos:
     -    Programación en Java
     - Páginas Web en  HTML
